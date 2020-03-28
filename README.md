@@ -1,1 +1,1 @@
-# strongly-typed-enum
+# simple example of strongly-typed-enum
